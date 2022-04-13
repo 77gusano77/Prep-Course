@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = gusano;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
@@ -81,19 +81,24 @@ function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
+  return true if num > 50
+  return false if num <= 50
   
 }
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
-  // Tu código:
+  // Tu código: 
+  function (x,y) {
+    console.log (x % y);
   
 }
 
 function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
-  // Tu código:
+  // Tu código: 
+  return true if num
   
 }
 
@@ -107,13 +112,17 @@ function esImpar(num) {
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
-  // Tu código:
+  // Tu código: 
+  function 
+  console.log (num **)
   
 }
 
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
-  // Tu código:
+  // Tu código: 
+    function
+    console.log (num ***) 
   
 }
 
